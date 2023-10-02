@@ -1,5 +1,4 @@
 # Connectit
-# Connectit
 **Project Title**: Connectit Application
 **Description:**
 It is a Large Networking Platform for users to interact with professionals in their respective field. 
